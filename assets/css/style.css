@@ -1,0 +1,39 @@
+/* Global styles */
+body {
+	font-family: 'Lato', Helvetica, Arial, sans-serif;
+}
+
+a.nolink {
+	color: inherit;
+	text-decoration: none;
+}
+a.nolink:hover, a.nolink:focus {
+	text-decoration: underline;
+}
+
+/* Navbar */
+.navbar-fixed-esque {
+	border-radius: 0;
+}
+.navbar-brand .icon-svlt {
+    float: left;
+    font-size: 2pc;
+    margin-top: -1px;
+    margin-bottom: -2px;
+    margin-right: .5rem;
+}
+
+/* Footer */
+footer {
+	font-size: 80%;
+}
+
+/* Index page */
+.container-index {
+	margin-top: 64px;
+	text-align: center;
+}
+.container-index .index-logo {
+	color: #0087cb;
+	font-size: 172px;
+}

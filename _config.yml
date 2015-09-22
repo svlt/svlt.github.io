@@ -1,0 +1,11 @@
+# Site settings
+title: Social Vault
+baseurl: ""
+assetsurl: "/assets" # Used in place of base URL
+url: "https://svlt.github.io"
+permalink: pretty
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
